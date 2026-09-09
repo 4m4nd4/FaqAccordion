@@ -4,6 +4,7 @@ const questions = document.querySelectorAll(".faq-question");
     Create a variable called 'questions' and keep it pointing 
     to this collection of FAQ questions.
 */
+
 // Go through each question.
 questions.forEach(function (question) {
     // When a question is clicked, run the code.
